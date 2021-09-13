@@ -16,8 +16,12 @@ Eu faço jogos, vem ver!!!
 <div>
   <a href="https://github.com/r3nsen">
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=r3nsen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nsen&layout=compact&langs_count=7&theme=dark"/></a>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nsen&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
+
+
+## 
 
 <!--
 **r3nsen/r3nsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
