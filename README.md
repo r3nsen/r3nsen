@@ -1,7 +1,8 @@
 ## Olá!! eu sou r3nsen
 
+- Programador, musico, artista 
+- Eu faço jogos
 - Sempre aprendendo algo novo. 
-- Musico, artista, e eu faço jogos. 
 
 ### Venha ver meus jogos!!!
 <div>
