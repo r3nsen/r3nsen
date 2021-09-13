@@ -10,7 +10,7 @@ Musico, artista, e eu faço jogos. Vem ver!!!
   <a href="https://twitter.com/r3nsen" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
-  <a href="https://twitter.com/r3nsen" target="_blank">
+  <a href="https://play.google.com/store/apps/developer?id=r3nsen" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank">
   </a>  
 </div>
