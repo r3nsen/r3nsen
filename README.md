@@ -1,5 +1,5 @@
 ## Olá!! eu sou r3nsen
-Eu faço jogos, vem ver!!!
+Musico, artista, e eu faço jogos. Vem ver!!!
 <div>
   <a href="https://store.steampowered.com/developer/r3nsen" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
