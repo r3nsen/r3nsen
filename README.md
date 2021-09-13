@@ -3,7 +3,7 @@
 - Sempre aprendendo algo novo. 
 - Musico, artista, e eu faço jogos. 
 
-### Vem ver meus jogos!!!
+### Venha ver meus jogos!!!
 <div>
   <a href="https://store.steampowered.com/developer/r3nsen" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
