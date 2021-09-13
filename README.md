@@ -14,11 +14,10 @@ Eu faço jogos, vem ver!!!
 </div>
 <!-- stats -->
 <div>
-  <a href="https://github.com/r3nsen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r3nsen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nsen&layout=compact&langs_count=7&theme=dark"/></a>
+  <!--a href="https://github.com/r3nsen"-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r3nsen&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nsen&layout=compact&langs_count=7&theme=dark" />
 </div>
-
 
 ## 
 
