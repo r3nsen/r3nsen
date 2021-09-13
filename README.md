@@ -26,7 +26,7 @@
   <!--a href="https://github.com/r3nsen"-->
   <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=r3nsen&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /-->  
   <a href="https://github.com/r3nsen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nsen&langs_count=7&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nsen&layout=compact&langs_count=7&theme=dark" />
   </a>
   <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nsen&layout=compact&langs_count=7&theme=dark" /-->
 </div>
