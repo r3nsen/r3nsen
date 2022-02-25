@@ -1,4 +1,4 @@
-<!-- ## Olá!! eu sou r3nsen
+## Olá!! eu sou r3nsen
 
 - Programador, musico, artista 
 - Eu faço jogos
@@ -22,7 +22,7 @@
 
 ## 
 
-<!-- stats -- >
+<!-- stats -->
 <div>  
   <a href="https://github.com/r3nsen">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nsen&layout=compact&theme=dark" />
