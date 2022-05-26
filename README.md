@@ -25,8 +25,8 @@
 <!-- stats -->
 <div align= "center">      
   <a href="https://github.com/r3nsen">    
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=r3nsen&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark" />  
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nsen&layout=compact&theme=dark" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=r3nsen&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark" />      
   </a>  
 </div>
 
